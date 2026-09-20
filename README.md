@@ -9,9 +9,8 @@
 ## 🚀 Sobre mim
 
 - 🔬 Atualmente na **Imersão de QA da Qazando**
-- 🤖 Fazendo bootcamp de **Automação com IA**
 - 🧠 Construindo projetos práticos de testes automatizados enquanto aprendo
-- 🌱 Interessado em como IA pode potencializar e ser testada dentro de QA
+- 🌱 Interessada em como IA pode potencializar e ser testada dentro de QA
 - 📫 Buscando minha primeira oportunidade na área de QA/SDET
 
 ---
