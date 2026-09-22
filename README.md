@@ -29,6 +29,9 @@ Paralelamente, continuo desenvolvendo minha prática em testes de software, Git/
 
 Busco oportunidades de entrada em QA, especialmente como QA Júnior, Analista de Testes Júnior ou Software Tester.
 
+
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/ivyh-rangel/)
+- [LinkedIn](https://www.linkedin.com/in/ivyh-rangel/)
+- [E-mail](mailto:ivyhrangel@gmail.com)
+  
